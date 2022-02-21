@@ -142,6 +142,8 @@ var palettel  = ['00441b', '238b45','66c2a4', '3182bd', 'd9d9d9'];
 for (var i = 0; i < 3; i++) { legend.add(makeRow(palettel[i], names[i]))}  
 Map.add(legend);
 
+### Link directly for the GEE:
+https://code.earthengine.google.com/?accept_repo=users/eliana_ufrgs/vegetation_map
 
 
 ### Subsets shapefiles:
